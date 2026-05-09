@@ -1,4 +1,8 @@
+## 🚀 Live Demo
 
+Experience the live CreditWise Dashboard here:
+
+👉 [Open Live App](https://creditwise-dashboard-ohgi2ddby-dakshg25128-5815s-projects.vercel.app/)
 
 # CreditWise Dashboard 💳
 
