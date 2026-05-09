@@ -1,14 +1,16 @@
-## 🚀 Live Demo
-
-Experience the live CreditWise Dashboard here:
-
-👉 [Open Live App](https://creditwise-dashboard-ew94bdlps-dakshg25128-5815s-projects.vercel.app/)
-
 # CreditWise Dashboard 💳
 
 CreditWise Dashboard is a React-based web application that helps users manage multiple credit cards, track spending, and stay on top of bill payments through a clean and interactive interface.
 
 This project is built as part of a React Capstone Project and focuses on real-world usability, state management, and data visualization.
+
+---
+
+## 🚀 Live Demo
+
+Experience the live CreditWise Dashboard here:
+
+👉 [Open Live App](https://creditwise-dashboard-ew94bdlps-dakshg25128-5815s-projects.vercel.app/)
 
 ---
 
