@@ -129,9 +129,3 @@ This project is developed in a group of three members:
 This project is developed for educational purposes as part of a capstone project.
 
 ---
-
-## 💡 Note
-
-All financial data used in this project is mock data for demonstration purposes only.
-
----
